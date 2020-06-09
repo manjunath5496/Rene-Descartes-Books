@@ -6,7 +6,7 @@
 </th>
 </tr>
 <tr>
-<td colspan="2"><a class="image" href="220px-Frans_Hals_-_Portret_van_René_Descartes.jpg"><img src="220px-Frans_Hals_-_Portret_van_René_Descartes.jpg" alt="Frans Hals - Portret van Ren&eacute; Descartes.jpg" width="220" height="269" data-file-width="817" data-file-height="1000" /></a></td>
+<td colspan="2"><a class="image" href="220px-Frans_Hals_-_Portret_van_Ren&eacute;_Descartes.jpg"><img src="220px-Frans_Hals_-_Portret_van_Ren&eacute;_Descartes.jpg" alt="Frans Hals - Portret van Ren&eacute; Descartes.jpg" width="220" height="269" data-file-width="817" data-file-height="1000" /></a></td>
 </tr>
 <tr>
 <th scope="row">Born</th>
@@ -56,11 +56,11 @@
 <li><a title="Rationalism" href="https://en.wikipedia.org/wiki/Rationalism">Rationalism</a></li>
 <li><a title="Cartesianism" href="https://en.wikipedia.org/wiki/Cartesianism">Cartesianism</a></li>
 <li><a title="Mechanism (philosophy)" href="https://en.wikipedia.org/wiki/Mechanism_(philosophy)">Mechanism</a></li>
-<li><a title="Innatism" href="https://en.wikipedia.org/wiki/Innatism">Innatism</a><sup id="cite_ref-3" class="reference"></sup><sup class="reference">:257</sup></li>
+<li><a title="Innatism" href="https://en.wikipedia.org/wiki/Innatism">Innatism</a></li>
 <li><a title="Foundationalism" href="https://en.wikipedia.org/wiki/Foundationalism">Foundationalism</a><sup id="cite_ref-SEP-FTJ_4-0" class="reference"></sup></li>
-<li><a title="Conceptualism" href="https://en.wikipedia.org/wiki/Conceptualism">Conceptualism</a><sup id="cite_ref-5" class="reference"></sup><sup class="reference">:43</sup></li>
+<li><a title="Conceptualism" href="https://en.wikipedia.org/wiki/Conceptualism">Conceptualism</a></li>
 <li><a title="Augustinianism" href="https://en.wikipedia.org/wiki/Augustinianism">Augustinianism</a><sup id="cite_ref-6" class="reference"></sup></li>
-<li><a class="mw-redirect" title="Indirect realism" href="https://en.wikipedia.org/wiki/Indirect_realism">Indirect realism</a><sup id="cite_ref-7" class="reference"></sup><sup class="reference">:136</sup></li>
+<li><a class="mw-redirect" title="Indirect realism" href="https://en.wikipedia.org/wiki/Indirect_realism">Indirect realism</a></li>
 <li><a title="Correspondence theory of truth" href="https://en.wikipedia.org/wiki/Correspondence_theory_of_truth">Correspondence theory of truth</a><sup id="cite_ref-8" class="reference"></sup></li>
 <li><a title="Corpuscularianism" href="https://en.wikipedia.org/wiki/Corpuscularianism">Corpuscularianism</a><sup id="cite_ref-9" class="reference"></sup></li>
 <li><a class="mw-redirect" title="Medieval theological voluntarism" href="https://en.wikipedia.org/wiki/Medieval_theological_voluntarism">Theological voluntarism</a><sup id="cite_ref-Gilson_10-0" class="reference"></sup></li>
@@ -160,7 +160,7 @@
 <td colspan="2"><a class="image" href="150px-Firma_Descartes.svg.png"><img src="150px-Firma_Descartes.svg.png" srcset="150px-Firma_Descartes.svg.png" alt="Firma Descartes.svg" width="150" height="32" data-file-width="116" data-file-height="25" /></a><br /><br /></td>
 </tr>
 </tbody>
-</table> 
+</table>
  </br>
  <h2>Books </h2>
  
