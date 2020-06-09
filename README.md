@@ -162,6 +162,84 @@
 </tbody>
 </table>
  </br>
+ 
+ <table class="vertical-navbox nowraplinks">
+<tbody>
+
+<tr>
+<td>
+<div id="NavFrame3" class="NavFrame collapsed">
+<div class="NavHead">Philosophy</div>
+<div class="NavContent hlist">
+<ul>
+<li><a title="Cartesianism" href="https://en.wikipedia.org/wiki/Cartesianism">Cartesianism</a></li>
+<li><a title="Rationalism" href="https://en.wikipedia.org/wiki/Rationalism">Rationalism</a></li>
+<li><a title="Foundationalism" href="https://en.wikipedia.org/wiki/Foundationalism">Foundationalism</a></li>
+<li><a title="Mechanism (philosophy)" href="https://en.wikipedia.org/wiki/Mechanism_(philosophy)">Mechanism</a></li>
+<li><a title="Cartesian doubt" href="https://en.wikipedia.org/wiki/Cartesian_doubt">Doubt and certainty</a></li>
+<li><a title="Dream argument" href="https://en.wikipedia.org/wiki/Dream_argument">Dream argument</a></li>
+<li><em><a title="Cogito, ergo sum" href="https://en.wikipedia.org/wiki/Cogito,_ergo_sum">Cogito, ergo sum</a></em></li>
+<li><a title="Evil demon" href="https://en.wikipedia.org/wiki/Evil_demon">Evil demon</a></li>
+<li><a title="Trademark argument" href="https://en.wikipedia.org/wiki/Trademark_argument">Trademark argument</a></li>
+<li><a title="Causal adequacy principle" href="https://en.wikipedia.org/wiki/Causal_adequacy_principle">Causal adequacy principle</a></li>
+<li><a title="Mind&ndash;body problem" href="https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem">Mind&ndash;body dichotomy</a></li>
+<li><a title="Analytic geometry" href="https://en.wikipedia.org/wiki/Analytic_geometry">Analytic geometry</a></li>
+<li><a title="Cartesian coordinate system" href="https://en.wikipedia.org/wiki/Cartesian_coordinate_system">Coordinate system</a></li>
+<li><a title="Cartesian circle" href="https://en.wikipedia.org/wiki/Cartesian_circle">Cartesian circle</a>&nbsp;<strong>&middot;</strong>&nbsp;<a title="Folium of Descartes" href="https://en.wikipedia.org/wiki/Folium_of_Descartes">Folium</a></li>
+<li><a title="Descartes' rule of signs" href="https://en.wikipedia.org/wiki/Descartes%27_rule_of_signs">Rule of signs</a></li>
+<li><a title="Cartesian diver" href="https://en.wikipedia.org/wiki/Cartesian_diver">Cartesian diver</a></li>
+<li><a title="Balloonist theory" href="https://en.wikipedia.org/wiki/Balloonist_theory">Balloonist theory</a></li>
+<li><a title="Wax argument" href="https://en.wikipedia.org/wiki/Wax_argument">Wax argument</a></li>
+<li><em><a title="Mental substance" href="https://en.wikipedia.org/wiki/Mental_substance">Res cogitans</a></em></li>
+<li><em><a title="Res extensa" href="https://en.wikipedia.org/wiki/Res_extensa">Res extensa</a></em></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame4" class="NavFrame collapsed">
+<div class="NavHead">Works</div>
+<div class="NavContent hlist">
+<ul>
+<li><a title="The World (Descartes)" href="https://en.wikipedia.org/wiki/The_World_(Descartes)">The World</a></li>
+<li><a title="Discourse on the Method" href="https://en.wikipedia.org/wiki/Discourse_on_the_Method">Discourse on the Method</a></li>
+<li><a title="La G&eacute;om&eacute;trie" href="https://en.wikipedia.org/wiki/La_G%C3%A9om%C3%A9trie">La G&eacute;om&eacute;trie</a></li>
+<li><a title="Meditations on First Philosophy" href="https://en.wikipedia.org/wiki/Meditations_on_First_Philosophy">Meditations on First Philosophy</a></li>
+<li><a title="Principles of Philosophy" href="https://en.wikipedia.org/wiki/Principles_of_Philosophy">Principles of Philosophy</a></li>
+<li><a title="Passions of the Soul" href="https://en.wikipedia.org/wiki/Passions_of_the_Soul">Passions of the Soul</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame5" class="NavFrame collapsed">
+<div class="NavHead">People</div>
+<div class="NavContent hlist">
+<ul>
+<li><a title="Christina, Queen of Sweden" href="https://en.wikipedia.org/wiki/Christina,_Queen_of_Sweden">Christina, Queen of Sweden</a></li>
+<li><a title="Baruch Spinoza" href="https://en.wikipedia.org/wiki/Baruch_Spinoza">Baruch Spinoza</a></li>
+<li><a title="Gottfried Wilhelm Leibniz" href="https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz">Gottfried Wilhelm Leibniz</a></li>
+<li><a title="Francine Descartes" href="https://en.wikipedia.org/wiki/Francine_Descartes">Francine Descartes</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+ </br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  <h2>Books </h2>
  
  
